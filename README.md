@@ -1,8 +1,10 @@
 # Module-1-Challenge
 
-WHEN the code for the webpage is viewed 
-THEN semantic HTML is seen.
-WHEN the code is viewed 
-THEN comments are seen stating my changes to the previous code.
-WHEN the code is viewed 
-THEN the HTML is seen following a logical order.
+This Webpage is designed to help with understanding an online presence from a business perspective.
+It gives ways to understand what a positive online presence is, and ways you can gain or maintain one.
+A positive online prescence can be helped through:
+## Search Engines
+## Reputation Management
+and
+## Social Media and Marketin
+
